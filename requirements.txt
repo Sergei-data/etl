@@ -4,3 +4,10 @@ clickhouse-connect==0.8.0
 airflow-providers-clickhouse==0.0.1
 clickhouse-driver==0.2.9
 airflow-clickhouse-plugin
+pandas==2.2.2
+numpy==1.26.4
+pyarrow==15.0.2
+duckdb==0.10.1
+requests-cache==1.2.0
+retry-requests==2.0.0
+openmeteo-requests==1.0.0
