@@ -4,3 +4,6 @@ clickhouse-connect==0.8.0
 airflow-providers-clickhouse==0.0.1
 clickhouse-driver==0.2.9
 airflow-clickhouse-plugin
+requests-cache==1.2.0
+retry-requests==2.0.0
+hadoop-aws==3.3.4
